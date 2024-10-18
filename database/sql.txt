@@ -1,0 +1,24 @@
+cheats!
+
+as: asignarle un alias al mostrar (se puede hacer solo o a varias columnas y para detallarlo mas se pueden usar comillas dobles y realizar un string con caracteres especialies)
+
+boolean: 0 = false, 1 = true;
+
+where: filtra la busqueda
+
+And: añade más detalles a la búsqueda
+
+Or: añade más opciones 
+
+Date type format: YYYY-MM-DD
+
+Between: registros existentes en un rago específico (select * from column_name where condition between 1 and 2;)
+
+Like and %:  % porcent it to indicate follow the string or data and like to indicate the word to search. Estructure be like (select * from column_name where nombre like 'Carlo%') (we use % to continue the string if we dont know th next words). We also use the porcent to finish words, i mean if we just know the final word we will use: select * from users where nombre like '%los'; % it s a wildcard!
+
+
+some managers:
+DB2
+MySQL
+Oracle
+MS SQL Server
