@@ -22,5 +22,9 @@ console.log(UserName.replace("Padilla", "Padilla Ortega."));
 
 //ReplaceALL
 let coincidences = "Lorem kitchen, Lorem kitchen, Lorem kitchen!";
-console.log(coincidences.replaceAll("Lorem", "clear"));
-console.log(coincidences); 
+console.log(coincidences.replaceAll("Lorem", "clear")); 
+
+//Upper
+console.log(coincidences.toUpperCase());
+//Lower
+console.log(coincidences.toLowerCase());

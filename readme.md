@@ -13,3 +13,6 @@
 ## String Methods
 - .length
 - .slice()
+- .toUpper()
+- .toLower()
+- replace and replaceAll
