@@ -28,3 +28,8 @@ console.log(coincidences.replaceAll("Lorem", "clear"));
 console.log(coincidences.toUpperCase());
 //Lower
 console.log(coincidences.toLowerCase());
+
+//trim
+let NewVar = "   Hi! How are you?   ";
+console.log(NewVar.trimStart());
+console.log(NewVar.trimEnd());

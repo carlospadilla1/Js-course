@@ -16,3 +16,4 @@
 - .toUpper()
 - .toLower()
 - replace and replaceAll
+- .trimStart() and .trimEnd().
