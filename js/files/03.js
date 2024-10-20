@@ -17,3 +17,7 @@ console.log(StringText.toUpperCase().includes("JAVASCRIPT"));
 //Methods Start With and End whit
 console.log(StringText.toLowerCase().startsWith("are", 3));
 console.log(StringText.toUpperCase().endsWith("JAVASCRIPT"));
+
+//Arrays
+let names = ["Carlos", "Pablo", "Saul", "Samuel"];
+let notes = [7.5, 6.2, 7.7, 6.9];
