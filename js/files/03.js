@@ -19,5 +19,14 @@ console.log(StringText.toLowerCase().startsWith("are", 3));
 console.log(StringText.toUpperCase().endsWith("JAVASCRIPT"));
 
 //Arrays
-let names = ["Carlos", "Pablo", "Saul", "Samuel"];
-let notes = [7.5, 6.2, 7.7, 6.9];
+let students = [
+  ["Carlos", "Diego", "Christian", "Evers"],
+  [7.0, 6.5, 4.1, 6.0],
+];
+console.log(students);
+
+//OR
+let SchoolSection = [];
+SchoolSection[0] = "Carlos";
+SchoolSection[1] = "Henry";
+console.log(SchoolSection);

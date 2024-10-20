@@ -27,3 +27,5 @@
 - .includes
 - .endsWith()
 - .startsWith()
+
+## Arrays
