@@ -32,4 +32,4 @@
 - unshift(); show or add item or to start
 - sort(); Sort alphabetically
 - reverse(); switch order items
-tip: sort + revers: order in alphabetic reverse
+- tip: sort + revers: order in alphabetic reverse
