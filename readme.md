@@ -1,15 +1,15 @@
 # Some Methods
 
-- Tofixed()
-- ToString()
-- ToExponential()
-- ToPrecision()
+- .Tofixed()
+- .ToString()
+- .ToExponential()
+- .ToPrecision()
 
-### Another Methods
+## Another Methods
 
-- Number()
-- parseInt()
-- parseFloat()
+- .Number()
+- .parseInt()
+- .parseFloat()
 
 ## String Methods
 
@@ -22,10 +22,16 @@
 
 ## Search in string
 
-- .indexOf(), .lastIndexOf()
+- .indexOf(),
+- .lastIndexOf()
 - .search()
 - .includes
 - .endsWith()
 - .startsWith()
 
 ## Arrays
+
+.pop(); Delete or show the last item
+.push(); add item
+.shift(); Delete or show the first item
+.unshift(); Show or add item or to start
