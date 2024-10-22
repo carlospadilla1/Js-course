@@ -35,4 +35,4 @@
 .push(); add item
 .shift(); Delete or show the first item
 .unshift(); Show or add item or to start
-.sort(); to order 
+.sort(); to order
