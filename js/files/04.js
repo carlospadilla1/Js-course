@@ -1,6 +1,4 @@
-//Array methods
-let usersNames = ["Carlos", "David", "Juliana", "Daniella"];
-usersNamespoped = usersNames.pop();
-console.log(usersNamespoped);
-console.log(usersNames);
+let names = ["Carlos", "Carlos1", "Carlos2"];
+names.pop();
 
+console.log(names);
