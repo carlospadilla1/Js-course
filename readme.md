@@ -30,4 +30,6 @@
 - push(); add item
 - shift(); Delete or show the first item
 - unshift(); show or add item or to start
-- sort(); to order
+- sort(); Sort alphabetically
+- reverse(); switch order items
+tip: sort + revers: order in alphabetic reverse

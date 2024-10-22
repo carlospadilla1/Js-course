@@ -23,45 +23,11 @@ console.log(order);
 console.log(order.unshift());
 
 //sort
-/*
+let alphabet = ["z", "y", "x", "w"];
+console.log(alphabet);
+console.log(alphabet.sort());
 
-# Some Methods
-
-- .Tofixed()
-- .ToString()
-- .ToExponential()
-- .ToPrecision()
-
-## Another Methods
-
-- .Number()
-- .parseInt()
-- .parseFloat()
-
-## String Methods
-
-- .length
-- .slice()
-- .toUpper()
-- .toLower()
-- .replace and replaceAll
-- .trimStart() and .trimEnd().
-
-## Search in string
-
-- .indexOf(),
-- .lastIndexOf()
-- .search()
-- .includes
-- .endsWith()
-- .startsWith()
-
-## Arrays
-
-.pop(); Delete or show the last item
-.push(); add item
-.shift(); Delete or show the first item
-.unshift(); Show or add item or to start
-.sort(); to order
-
-*/
+//
+let fruits = ["Apple", "Pineapple", "Watermelon"];
+console.log(fruits.reverse());
+console.log(fruits.sort.reverse); //sort alphabetic revers 
