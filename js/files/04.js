@@ -30,4 +30,6 @@ console.log(alphabet.sort());
 //
 let fruits = ["Apple", "Pineapple", "Watermelon"];
 console.log(fruits.reverse());
-console.log(fruits.sort.reverse); //sort alphabetic revers 
+console.log(fruits.sort.reverse); //sort alphabetic reverse
+
+//Sets

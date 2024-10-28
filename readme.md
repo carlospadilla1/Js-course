@@ -33,3 +33,6 @@
 - sort(); Sort alphabetically
 - reverse(); switch order items
 - tip: sort + revers: order in alphabetic reverse
+
+# Set
+- Must be declared with const
