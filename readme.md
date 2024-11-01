@@ -1,15 +1,18 @@
 # Some Methods
+
 - Tofixed()
 - toString()
 - ToExponential()
 - ToPrecision()
 
 ## Another Methods
+
 - Number()
 - parseInt()
 - parseFloat()
 
 # String Methods
+
 - length
 - slice()
 - toUpper()
@@ -18,6 +21,7 @@
 - trimStart() and .trimEnd().
 
 ## Search in string
+
 - indexOf(),
 - lastIndexOf()
 - search()
@@ -26,6 +30,7 @@
 - startsWith()
 
 # Arrays Methods
+
 - pop(); Delete or show the last item
 - push(); add item
 - shift(); Delete or show the first item
@@ -35,4 +40,10 @@
 - tip: sort + revers: order in alphabetic reverse
 
 # Set
+
 - Must be declared with const
+- const name = new set([]);
+
+## Methods
+
+- Add()

@@ -23,7 +23,7 @@ console.log(order);
 console.log(order.unshift());
 
 //sort
-let alphabet = ["z", "y", "x", "w"];
+let alphabet = ["z", "x", "w", "y"];
 console.log(alphabet);
 console.log(alphabet.sort());
 
@@ -31,5 +31,3 @@ console.log(alphabet.sort());
 let fruits = ["Apple", "Pineapple", "Watermelon"];
 console.log(fruits.reverse());
 console.log(fruits.sort.reverse); //sort alphabetic reverse
-
-//Sets
