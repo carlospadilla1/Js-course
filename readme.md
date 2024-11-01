@@ -46,4 +46,6 @@
 
 ## Methods
 
-- Add()
+- Add();
+- Delete();
+- has();
