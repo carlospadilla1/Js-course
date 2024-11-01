@@ -54,3 +54,5 @@
 # Map
 - const name = new Map([]);
 - Set: to add twins
+- get(): to have access to a specific ítem.
+- Delete() 
