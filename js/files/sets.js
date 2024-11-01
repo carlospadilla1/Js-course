@@ -14,5 +14,8 @@ console.log(brands);
 //Example
 
 const vehiculos = new Set(["Starlet", "Hilux", "Liberty"]);
+
+//methods
 console.log(vehiculos.has("Starlet"));
 console.log(vehiculos.has("Aveo"));
+console.log(vehiculos.size);

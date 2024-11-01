@@ -44,8 +44,13 @@
 - Must be declared with const
 - const name = new set([]);
 
-## Methods
+## Set Methods
 
 - Add();
 - Delete();
 - has();
+- Size; Without ()
+
+# Map
+- const name = new Map([]);
+- Set: to add twins
