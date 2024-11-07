@@ -52,7 +52,10 @@
 - Size; Without ()
 
 # Map
+
 - const name = new Map([]);
 - Set: to add twins
 - get(): to have access to a specific ítem.
-- Delete() 
+- Delete()
+- has(); it has? true if not false.
+- .size
